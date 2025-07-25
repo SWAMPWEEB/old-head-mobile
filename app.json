@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Old Head",
+    "slug": "old-head",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "jsEngine": "hermes",
+    "sdkVersion": "50.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "old-head-app"
+      }
+    }
+  }
+}
