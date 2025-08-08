@@ -1,0 +1,6 @@
+node_modules/
+.env
+# Expo
+.expo/
+# Test coverage
+coverage/

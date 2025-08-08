@@ -90,6 +90,14 @@ npm start
 
 You can then open the app on an Android emulator, iOS simulator or your physical device via the Expo Go app.  As you develop, the app will automatically reload when you change files.
 
+### 5. Run tests
+
+After installing dependencies, run unit tests with:
+
+```sh
+npm test
+```
+
 ## Notes & Next Steps
 
 * The current implementation provides a functional skeleton that aligns with the specification in the “Old Head Agent Instructions” file.  Many features, such as offline caching with WatermelonDB, interactive pin management, real AI suggestions and detailed trip planning, are placeholders that require further development.
